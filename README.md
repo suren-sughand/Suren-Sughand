@@ -1,6 +1,7 @@
 Hi, Welcome to my GitHub Page!
 
-I'm Suren Sughand, a 27-year-old Data enthusiast. Innovative and results-driven Data Architect and Analytics Professional with a Master's in Information Technology and Analytics from Rutgers University and a Bachelor's in Computer Engineering from the University of Mumbai. As a Technical Architect at Tata Consultancy Services Limited, I specialize in transforming raw data into strategic insights, utilizing SQL, Python, and Tableau to drive operational efficiency and enhance customer satisfaction.
+I'm Suren Sughand, a 27-year-old Data enthusiast.
+Innovative and results-driven Data Architect and Analytics Professional with a Master's in Information Technology and Analytics from Rutgers University and a Bachelor's in Computer Engineering from the University of Mumbai. As a Technical Architect at Tata Consultancy Services Limited, I specialize in transforming raw data into strategic insights, utilizing SQL, Python, and Tableau to drive operational efficiency and enhance customer satisfaction.
 
 In my current role, I lead data mining initiatives, design interactive Tableau dashboards, and collaborate with business users to define requirements, providing both technical and non-technical solutions. Proficient in Python, I develop scripts for seamless integration of Informatica Transformations into Teradata queries, ensuring error-free database operations.
 
