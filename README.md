@@ -12,4 +12,4 @@ Projects like FIFA'19 Analysis & Visualization, Twitter Sentiment Analysis, and 
 
 Eager to connect with like-minded professionals, collaborate on innovative projects, and contribute to the ever-evolving landscape of information technology and analytics. Let's explore possibilities at the intersection of data, technology, and innovation.
 
-You can connect with me on LinkedIn
+You can connect with me on LinkedIn(https://www.linkedin.com/in/surensughand/)
